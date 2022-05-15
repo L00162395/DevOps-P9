@@ -8,7 +8,7 @@ env:
   AZURE_RESOURCE_GROUP: cd-with-actions
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"North Europe"'
-  AZURE_WEBAPP_NAME: docmilo-ttt-app
+  AZURE_WEBAPP_NAME: l00162395-ttt-app
 
 jobs:
   setup-azurE-resources:
